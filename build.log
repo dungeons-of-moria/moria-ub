@@ -1,0 +1,13 @@
+Compiling MORIA.PAS.
+MORIA.PAS compiled.
+Linking.
+MORIA linked.
+%DCL-W-IVVERB, unrecognized command verb - check validity and spelling
+ \PERMIT\
+  RAINWATER    job terminated at 31-OCT-1988 16:09:51.52
+
+  Accounting information:
+  Buffered I/O count:          462      Peak working set size:  2048
+  Direct I/O count:           2581      Peak page file size:   19575
+  Page faults:               45118      Mounted volumes:           0
+  Charged CPU time:     0 00:03:17.32   Elapsed time:     0 00:07:19.76
